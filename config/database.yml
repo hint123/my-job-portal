@@ -26,6 +26,3 @@ production:
   database: NewJobPortal
   # encoding: utf8
   pool: 5
-  username: root
-  password: root
-  host: localhost
