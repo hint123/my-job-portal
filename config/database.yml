@@ -24,5 +24,8 @@ development:
 production:
   adapter: mysql2
   database: NewJobPortal
+  # encoding: utf8
   pool: 5
-  timeout: 5000
+  username: root
+  password: root
+  host: localhost
