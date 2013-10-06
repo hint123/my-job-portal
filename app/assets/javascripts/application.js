@@ -12,4 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require home.js.coffee
+//= require jquery-1.3.1.min.js
+//= require jquery.easing.1.3.js
+//= require jquery.ennui.contentslider.js
+//= require jquery.js
 //= require_tree .

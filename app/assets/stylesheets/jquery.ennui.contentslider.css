@@ -98,7 +98,7 @@
 	width: 380px;
 	height: 180px;
 	padding: 14px;
-	background: url(../images/templatemo_banner_img_frame.png);
+	background: url(/assets/templatemo_banner_img_frame.png);
 }
 
 .slider_image img {
